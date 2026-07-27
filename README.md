@@ -126,3 +126,6 @@ subset at 96×96 on CPU (a few minutes). Validation Dice rose from
 metrics are correct and learning. A full run (256px, 50 epochs, GPU)
 will get well beyond this — DSB2018 U-Net baselines typically reach
 Dice ≈ 0.85–0.92.
+
+## The output of the webapp when tested on a random image found through google search
+<img width="1913" height="1002" alt="image" src="https://github.com/user-attachments/assets/edc06b04-526b-435a-be31-ff749a0a5029" />
