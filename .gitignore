@@ -2,6 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.ipynb_checkpoints/
+*.pyc
+*.pyo
 
 # C extensions
 *.so
@@ -216,3 +219,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#project-specific
+data/stage1_train/
+outputs/*.pt
+outputs/*.png
+outputs/*.csv
+*.zip
